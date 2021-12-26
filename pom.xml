@@ -76,7 +76,7 @@
         <mina.version>2.0.21</mina.version>
         <slf4j.version>1.7.32</slf4j.version>
         <logback.version>1.2.9</logback.version>
-        <quartz.version>2.2.3</quartz.version>
+        <quartz.version>2.3.2</quartz.version>
         <bc.version>1.60</bc.version>
         <junit.version>4.13.1</junit.version>
         <isoparser.version>1.9.39</isoparser.version>
@@ -100,7 +100,7 @@
 		<javacpp.cuda.version>11.2-8.1-1.5.5</javacpp.cuda.version>
 		<jersey.version>2.31</jersey.version>
 		<mapdb.version>3.0.8</mapdb.version>
-		<vertx-core.version>3.9.3</vertx-core.version>
+		<vertx-core.version>4.2.3</vertx-core.version>
 		<enunciate.version>2.13.1</enunciate.version>	
 		<jsr305.version>3.0.2</jsr305.version>      
 		<kafka-streams.version>2.2.1</kafka-streams.version>
